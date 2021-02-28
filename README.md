@@ -17,7 +17,7 @@ Verkehrswarnung: Abbiegeassistent, Warndreieck bei Kollisionsgefahr
 Schnittstelle: Kommunikation mit z.B. Ampel, sich näherndem Krankenwagen, abbiegendem LKW etc.
 
 
-Als Next Steps wollen wir ein Pilotprojekt mit Lieferando-Fahrern starten, da diese aufgrund ständig neuer Adressen sowie eines hohen Zeitdrucks einen hohen Nutzen aus den Sicherheitsfeatures unseres Produkts ziehen können. Ebenfalls erzielen wir durch Ausstattung der Lieferando-Fahrer eine hohe Öffentlichkeitswirksamkeit. Zudem können die Schnittstellen auf andere künftige Innovationen (wie z.B. Helm-Airbags) erweitert werden. Ein weiterer Schritt ist die Ausweitung der Use-Cases auf z.B. E-Scooter- und Motorradfahrer. 
+Als Next Steps wollen wir ein Pilotprojekt mit Lieferando-Fahrern starten, da diese aufgrund ständig neuer Adressen sowie eines massiven Zeitdrucks einen enormen Nutzen aus den Sicherheitsfeatures unseres Produkts ziehen können. Ebenfalls erzielen wir durch Ausstattung der Lieferando-Fahrer eine hohe Öffentlichkeitswirksamkeit. Zudem können die Schnittstellen auf andere künftige Innovationen (wie z.B. Helm-Airbags) erweitert werden. Ein weiterer Schritt ist die Ausweitung der Use-Cases auf z.B. E-Scooter- und Motorradfahrer. 
 
 # m15
 
